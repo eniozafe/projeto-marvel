@@ -1,2 +1,2 @@
 # projeto marvel
- Tela selecao personagens
+ Tela selecao personagens simulando um game
